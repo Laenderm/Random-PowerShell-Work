@@ -71,4 +71,5 @@ Process {
 	} catch {
 		Write-Error $_.Exception.Message	
 	}
+ }
 	
